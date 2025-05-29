@@ -90,5 +90,5 @@ Este projeto foi desenvolvido como parte da formação prática da DIO.
 Conecte-se comigo para trocas de conhecimento e colaboração!
 
 📧 Email: biancaaesteves@icloud.com
-🔗 LinkedIn: linkedin.com/in/biancaaesteves
+🔗 LinkedIn: https://www.linkedin.com/in/biancaaesteves/
 
